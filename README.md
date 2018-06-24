@@ -24,5 +24,17 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write. 
 
+### How to run the application
+This application requires [node](https://nodejs.org/en/)
 
+- Install packages
+
+`npm install`
+
+- Run server
+
+`npm start`
+
+Application will be running on:
+[http://127.0.0.1:8080](http://127.0.0.1:8080)
 
